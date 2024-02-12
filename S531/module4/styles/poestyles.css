@@ -39,6 +39,10 @@ table {
   background-color: mintcream;
 }
 
+caption {
+  background-color: ghostwhite;
+}
+
 table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
