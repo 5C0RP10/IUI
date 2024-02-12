@@ -40,7 +40,8 @@ table {
 }
 
 caption {
-  background-color: ghostwhite;
+  background-color: azure;
+  color: deeppink;
 }
 
 table, th, td {
