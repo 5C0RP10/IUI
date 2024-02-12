@@ -1,0 +1,42 @@
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+}
+
+body {
+  background-image: url(images/coverlet.jpg);/*public domain image of 1781 coverlet from Baltimore*/ 
+}
+
+h1 {
+  background-color: aliceblue;
+}
+
+p {
+  background-color: ghostwhite;
+}
+
+.p1 {
+  font-family: Georgia, serif;
+}
+
+.p2 {
+  font-family: Garamond, serif;/*choose best looking of these three fonts in body*/
+}
+
+h2 {
+  background-color: aliceblue;
+}
+
+ul {
+  background-color: hotpink;/*maybe a different shade of pink*/
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #000;
+padding: 1em;
+}
+
+table {
+  background-color: mintcream;
+}
