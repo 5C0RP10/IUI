@@ -28,15 +28,15 @@ h2 {
 }
 
 ul {
-  background-color: hotpink;/*maybe a different shade of pink*/
+  background-color: lavenderblush;/*changed color from bright to light*/
+}
+
+table {
+  background-color: mintcream;
 }
 
 table, th, td {
 border-collapse: collapse;
 border: 1px solid #000;
 padding: 1em;
-}
-
-table {
-  background-color: mintcream;
 }
